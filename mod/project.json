@@ -1,0 +1,29 @@
+[
+  {
+    "ProjectName": "Boss Resurrection",
+    "GameRoot": "F:\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
+    "GameType": 8,
+    "PinnedParams": [
+      "SpEffectParam",
+      "GameAreaParam",
+      "EquipParamWeapon",
+      "EquipParamProtector"
+    ],
+    "PinnedRows": {},
+    "PinnedFields": {},
+    "UseLooseParams": false,
+    "PartialParams": false,
+    "LastFmgLanguageUsed": "engus"
+  },
+  {
+    "ProjectName": "Elden Ring December",
+    "GameRoot": "D:\\Steam Libary HDD 1TB\\steamapps\\common\\ELDEN RING\\Game",
+    "GameType": 8,
+    "PinnedParams": [],
+    "PinnedRows": {},
+    "PinnedFields": {},
+    "UseLooseParams": false,
+    "PartialParams": false,
+    "LastFmgLanguageUsed": ""
+  }
+]

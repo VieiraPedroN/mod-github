@@ -1,0 +1,388 @@
+
+Furlcalling Finger Remedy - Default
+Ghost Glovert
+Fire Pot - Default
+Redmane Fire Pot - Armorer's Cookbook [4]
+Giantsflame Fire Pot - Armorer's Cookbook [7]
+Lightning Pot - Ancient Dragon Apostle's Cookbook [2]
+Ancient Dragonbolt Pot - Ancient Dragon Apostle's Cookbook [4]
+Fetid Pot - Nomadic Warrior's Cookbook [4]
+Swarm Pot - Nomadic Warrior's Cookbook [24]
+Holy Water Pot - Missionary's Cookbook [1]
+Sacred Order Pot - Missionary's Cookbook [5]
+Freezing Pot - Glintstone Craftsman's Cookbook [6]
+Poison Pot - Nomadic Warrior's Cookbook [14]
+Oil Pot - Nomadic Warrior's Cookbook [17]
+Alluring Pot - Nomadic Warrior's Cookbook [21]
+Beastlure Pot - Nomadic Warrior's Cookbook [5]
+Roped Fire Pot - Nomadic Warrior's Cookbook [7]
+Roped Lightning Pot - Ancient Dragon Apostle's Cookbook [2]
+Roped Fetid Pot - Nomadic Warrior's Cookbook [4]
+Roped Poison Pot - Nomadic Warrior's Cookbook [14]
+Roped Oil Pot - Nomadic Warrior's Cookbook [17]
+Roped Magic Pot - Glintstone Craftsman's Cookbook [4]
+Roped Fly Pot - Nomadic Warrior's Cookbook [24]
+Roped Volcano Pot - Nomadic Warrior's Cookbook [20]
+Roped Holy Water Pot - Missionary's Cookbook [1]
+Volcano Pot - Nomadic Warrior's Cookbook [20]
+Albinauric Pot - Glintstone Craftsman's Cookbook [3]
+Cursed-Blood Pot - Nomadic Warrior's Cookbook [12]
+Sleep Pot - Fevor's Cookbook [1]
+Rancor Pot - Nomadic Warrior's Cookbook [9]
+Magic Pot - Glintstone Craftsman's Cookbook [4]
+Academy Magic Pot - Glintstone Craftsman's Cookbook [8]
+Rot Pot - Nomadic Warrior's Cookbook [22]
+Rowa Raisin - Default
+Sweet Raisin - Nomadic Warrior's Cookbook [19]
+Frozen Raisin - Nomadic Warrior's Cookbook [23]
+Neutralizing Boluses - Armorer's Cookbook [2]
+Stanching Boluses - Nomadic Cookbook [7]
+Thawfrost Boluses - Nomadic Warrior's Cookbook [16]
+Stimulating Boluses - Nomadic Warrior's Cookbook [16]
+Preserving Boluses - Armorer's Cookbook [6]
+Rejuvenating Boluses - Missionary's Cookbook [7]
+Clarifying Boluses - Frenzied's Cookbook [1]
+Pickled Turtle Neck - Nomadic Warrior's Cookbook [3]
+Immunizing Cured Meat - Armorer's Cookbook [5]
+Invigorating Cured Meat - Nomadic Warrior's Cookbook [2]
+Clarifying Cured Meat - Nomadic Warrior's Cookbook [23]
+Dappled Cured Meat - Nomadic Warrior's Cookbook [18]
+Spellproof Dried Liver - Nomadic Warrior's Cookbook [11]
+Fireproof Dried Liver - Armorer's Cookbook [1]
+Lightningproof Dried Liver - Ancient Dragon Apostle's Cookbook [4]
+Holyproof Dried Liver - Missionary's Cookbook [6]
+Silver-Pickled Fowl Foot - Missionary's Cookbook [3]
+Gold-Pickled Fowl Foot - Missionary's Cookbook [2]
+Exalted Flesh - Armorer's Cookbook [3]
+Immunizing White Cured Meat - Armorer's Cookbook [5]
+Invigorating White Cured Meat - Nomadic Warrior's Cookbook [2]
+Clarifying White Cured Meat - Nomadic Warrior's Cookbook [23]
+Dappled White Cured Meat - Nomadic Warrior's Cookbook [18]
+Fire Grease - Armorer's Cookbook [1]
+Lightning Grease - Ancient Dragon Apostle's Cookbook [1]
+Magic Grease - Glintstone Craftsman's Cookbook [5]
+Holy Grease - Missionary's Cookbook [4]
+Blood Grease - Nomadic Warrior's Cookbook [6]
+Soporific Grease - Fevor's Cookbook [2]
+Poison Grease - Nomadic Warrior's Cookbook [8]
+Freezing Grease - Glintstone Craftsman's Cookbook [2]
+Dragonwound Grease - Ancient Dragon Apostle's Cookbook [3]
+Rot Grease - Nomadic Warrior's Cookbook [22]
+Drawstring Fire Grease - Armorer's Cookbook [1]
+Drawstring Lightning Grease - Ancient Dragon Apostle's Cookbook [1]
+Drawstring Magic Grease - Glintstone Craftsman's Cookbook [5]
+Drawstring Holy Grease - Missionary's Cookbook [4]
+Drawstring Blood Grease - Nomadic Warrior's Cookbook [6]
+Drawstring Soporific Grease - Fevor's Cookbook [2]
+Drawstring Poison Grease - Nomadeic Warrior's Cookbook [8]
+Drawstring Rot Grease - Nomadic Warrior's Cookbook [22]
+Shield Grease - Glintstone Craftsman's Cookbook [4]
+Bone Dart - Default
+Poisonbone Dart - Nomadic Warrior's Cookbook [14]
+Crystal Dart - Nomadic Warrior's Cookbook [11]
+Rainbow Stone - Default
+Glowstone - Nomadic Warrior's Cookbook [2]
+Grace Mimic - Missionary's Cookbook [2]
+Soft Cotton - Nomadic Warrior's Cookbook [7]
+Soap - Nomadic Warrior's Cookbook [17]
+Cuckoo Glintstone - Glintstone Craftsman's Cookbook [1]
+Warming Stone - Nomadic Warrior's Cookbook [19]
+Frenzyflame Stone - Frenzied’s Cookbook [2]
+Scriptstone - Missionary's Cookbook [2]
+Bewitching Branch - Fevor's Cookbook [3]
+Uplifting Aromatic - Perfumer's Cookbook [1]
+Spark Aromatic - Perfumer's Cookbook [1]
+Ironjar Aromatic - Perfumer's Cookbook [3]
+Bloodboil Aromatic - Perfumer's Cookbook [2]
+Poison Spraymist - Perfumer's Cookbook [2]
+Acid Spraymist - Perfumer's Cookbook [4]
+Bone Arrow (Fletched) - Nomadic Warrior's Cookbook [1]
+Bone Arrow - Nomadic Warrior's Cookbook [1]
+Firebone Arrow (Fletched) - Armorer's Cookbook [2]
+Firebone Arrow - Armorer's Cookbook [2]
+Poisonbone Arrow (Fletched) - Nomadic Warrior's Cookbook [3]
+Poisonbone Arrow - Nomadic Warrior's Cookbook [3]
+Sleepbone Arrow (Fletched) - Fevor's Cookbook [2]
+Sleepbone Arrow - Fevor's Cookbook [2]
+Stormwing Bone Arrow - Nomadic Warrior's Cookbook [10]
+Lightningbone Arrow (Fletched) - Ancient Dragon Apostle's Cookbook [1]
+Lightningbone Arrow - Ancient Dragon Apostle's Cookbook [1]
+Rainbow Stone Arrow - Nomadic Warrior's Cookbook [7]
+Shattershard Arrow - Nomadic Warrior's Cookbook [11]
+Magicbone Arrow (Fletched) - Glintstone Craftsman's Cookbook [5]
+Magicbone Arrow - Glintstone Craftsman's Cookbook [5]
+Haligbone Arrow (Fletched) - Missionary's Cookbook [4]
+Haligbone Arrow - Missionary's Cookbook [4]
+Bloodbone Arrow (Fletched) - Nomadic Warrior's Cookbook [6]
+Bloodbone Arrow - Nomadic Warrior's Cookbook [6]
+Coldbone Arrow (Fletched) - Glintstone Craftsman's Cookbook [7]
+Coldbone Arrow - Glintstone Craftsman's Cookbook [7]
+Rotbone Arrow (Fletched) - Nomadic Warrior's Cookbook [15]
+Rotbone Arrow - Nomadic Warrior's Cookbook [15]
+Bone Great Arrow (Fletched) - Nomadic Warrior's Cookbook [1]
+Bone Great Arrow - Nomadic Warrior's Cookbook [1]
+Bone Bolt - Nomadic Warrior's Cookbook [1]
+Firebone Bolt - Armorer's Cookbook [2]
+Lightningbone Bolt - Ancient Dragon Apostle's Cookbook [1]
+Magicbone Bolt - Glintstone Craftsman's Cookbook [5]
+Haligbone Bolt - Missionary's Cookbook [4]
+Poisonbone Bolt - Nomadic Warrior's Cookbook [3]
+Bloodbone Bolt - Nomadic Warrior's Cookbook [6]
+Coldbone Bolt - Glintstone Craftsman's Cookbook [7]
+Rotbone Bolt - Nomadic Warrior's Cookbook [15]
+Sleepbone Bolt -  Fevor's Cookbook [2]
+Bone Ballista Bolt - Nomadic Warrior's Cookbook [13]
+Melina
+Malenia- Blade of Miquella
+Radagon of the Golden Order
+Sorcerous Sellen
+Millicent
+Melina- Sorcerous Sellen- Millicent
+Melina- Sorcerous Sellen
+Melina- Millicent
+Rennala- Queen of the Full Moon
+Ranni the Witch
+Crucible Knight Ordovis
+Godskin Apostle's
+Malenia- Goddess of Rot
+Godrey- First Elden Lord
+Maliketh- the Black Blade
+Morgott- the Omen King
+Blaidd the Half-Wolf
+Hoarah Loux
+Tree Sentinel
+Starscourge Radahn
+Mogh- Lord of Blood
+Godrick the Grafted
+Fire Giant
+Team golden/death
+Team golden/death
+Elemer of the Briar
+Elden Beast
+Commander Niall
+Draconic Tree Sentinel
+Loretta- Knight of the Haligtree
+Knight's Cavalry - Glaive
+Knight's Cavalry - Flail
+Beserker Blaidd the Half-Wolf
+Crucible Knight Sirulia
+Red Wolf of Radagon
+Dragonlord Placidusax
+Lichdragon Fortissax
+Ancient Dragon Lansseax
+Glintstone Dragon Smarag
+Decaying Ekzykes
+Death Rite Bird
+Liurnia Squad
+Lightseeker Hyetta
+Eleonora- Violet Bloody Finger
+Anastasia- Tarnished-Eater
+Festering Fingerprint Vyke
+Roundtable Knight Vyke
+Rileigh the Idle
+Sanguine Noble
+Recusant Bernahl
+Juno Hoslow- Knight of Blood
+Bloody Finger Nerijus
+Bloody Finger Ravenmount Assassin
+Okina
+Recusant Henricus
+Mad Tongue Alberich
+Ensha of the Royal Remains
+Inquisitor Ghiza
+Baleful Shadow
+Sir Gideon Ofnir- the All-Knowing
+Tanith
+Patches
+Fire Giant Phase 2
+Godskin Duo
+Godskin Noble
+Godskin Apostle
+Nephelie Loux Puppet
+Finger Maiden Therolina Puppet
+The Scarlet Sisters
+Rykard- Lord of Blasphemy
+God-Devouring Serpent
+Latenna the Albinauric and her Dire Wolf
+Mother and Daughter of Rot
+Let me solo her
+Ancestor Spirit
+Full-Grown Fallingstar Beast
+Grafted Scion
+Ulcerated Tree Spirit
+Putred Tree Spirit
+Dragonkin Soldier of Nokstella
+Runebear
+Astel- Naturelborn of the Void
+Guardian Golem
+The 8 Demigods
+D- Hunter of the Dead
+Fia- Deathbed Companion
+Blackguard
+Moongrum- Carian Knight
+Misbegotten Crusader
+Ancient Hero of Zamor
+Cemetery Shade
+Grave Warden Duelist(Serpent Helm) - Greataxe
+Rya the Scout
+Black Blade Kindred - Twinblade
+Black Blade Kindred - Greatsword
+Family of Rot
+Knight Diallos
+Adan- Thief of Fire
+Margit- the Fell Omen
+Grave Warden Duelist - Battle Hammer
+Frenzied Duelist - Greataxe
+Putrid Grave Warden Duelist - Greataxe
+Ascended Family of Rot
+Mary- Eldest Sister
+Maureen- Second Sister
+Amy- Third Sister
+Polyanna- Youngest Sister
+The Omen Brothers
+Banished Legion
+Banished Legends
+Banished Knight(Draconic)
+Banished Knight(Hood)
+Alecto- Black Knife Ringleader
+Fire Prelate(Hammer)
+Fire Prelate(Whip)
+Lion Guardian
+Cleanrot Knight - Spear
+Cleanrot Knight - Sickle
+Cleanrot Triad
+Sorcerer Rogier
+Vargram the Raging Wolf
+Inaba- Disciple of Okina
+The RedMane Knights
+Undead Mariner(Skeleton Axe User)
+Undead Mariner(Skeleton Glaive User)
+Exiled Legion
+Godrick Soldier Dummy
+Mistress Ranni and her Shadow
+Gurranq- Beast Clergyman
+Great Horned Tragoth
+Dummy Malenia- Goddess of Rot
+Godrick the Grafted Phase 2
+Crucible Duo
+Nomad Trader - Merchant Kalé
+Onyx Lord
+Erdtree Guardian
+Demi-Human Queen Margot
+Great Wyrm Theodorix
+Tree Sentinel Duo
+Nox Duo
+Leonine Misbegotten
+Crucible Knight - GS & Misbegotten
+Father & Daughter
+Erdtree Avatar
+Putrid Avatar
+Valiant Gargoyle - Twinblade- Axe
+Valiant Gargoyle - Greatsword- Halberd
+Yura- Hunter of Bloody Fingers
+White Mask Varre
+Preceptor Seluvis
+Edgar the Revenger
+Witch Hunter Jerren
+Roderika- Spirit Tuner
+Melina and Roderika
+Kenneth Haight
+Lionel the Lionhearted
+Rykard-Hating Ghost
+Brother Corhyn
+Boc the Seamster
+Old Knight Istvan
+Sage Gowry
+Preceptor Miriam
+Knight's of the Great Jar
+Fia's Champions
+Maleigh Marais
+Necromancer Garris
+Errant Sorcerer Wilhelm
+Chief Guardian Arghanthy
+Flame Guardian
+Esgar- Priest of Blood
+Malenia- Blade of Miquella and Cleanrot Knight Finlay
+Malenia- Goddess of Rot and Cleanrot Knight Finlay
+Legendary 5
+Spirit of the First Elden Lord
+Hoarah Loux and Godfrey- First Elden Lord
+Godrick the Grafted and Morgott- the Omen King
+Radagon and the Elden Beast
+Maliketh- the Black Blade and Gurranq- Beast Clergyman
+Mohg's Minion
+Morgott's Minion
+Malenia's Minion
+Flying Dragon Agheel
+Commander Gaius
+Golden Hippopotamous
+Putrescent Knight
+Romina- Saint of the Bud
+Midra- Lord of Frenzied Flame 1
+Midra- Lord of Frenzied Flame 2
+Messmer the Impaler
+Furnace Golem
+Metyr- Mother of Fingers
+Divine Beast Dancing Lion
+Promised Consort Radahn
+Twin Moon Rellana
+Death Knight
+Promised Consort Radahn Phase 2
+Rugalea The Great Red Bear
+Bayle the Dread
+Iron Fist Alexander
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
